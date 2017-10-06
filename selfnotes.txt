@@ -1,4 +1,7 @@
 when you click on menu button, all the contents below should not shift.
 
 images should resize and relatively position itself inside the carousel
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9b7b7b06bdce5746c9fa948811c22c9b3b18721d
