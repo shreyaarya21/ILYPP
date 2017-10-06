@@ -1,0 +1,23 @@
+body
+{
+	color: black;
+	background-color:  	 #f5b041;
+}
+a{
+	color: black;
+}
+.nav-link{
+	font-size: 1.3em;
+}
+section
+{
+	height: 90vh;
+}
+#home
+{
+	margin-top: -50px;
+}
+#logo
+{
+	z-index: 1;
+}
